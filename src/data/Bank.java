@@ -1,4 +1,4 @@
-package core;
+package data;
 
 import estorePojo.exceptions.InsufficientBalanceException;
 import estorePojo.exceptions.UnknownAccountException;
